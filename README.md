@@ -27,7 +27,7 @@ su uso se limita a una única vista de la aplicación
 
 Para manejar los datos de la URL he aprovechado los recursos que ofrece React Router Dom.
 
-# Layout, design system y estilos
+## Layout, design system y estilos
 
 He utilizado Bootstrap porque he visto que los usáis en PrimeIt pero también por los siguientes motivos: 
   - Design system y css funcional (utility first)
